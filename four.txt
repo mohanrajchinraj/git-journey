@@ -1,1 +1,1 @@
-I am from development branch and staging branch too
+I am from development branch.
