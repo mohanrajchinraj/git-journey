@@ -3,3 +3,4 @@ one
 New changes
 
 Adding Dark mode functionality
+Commit switch check
